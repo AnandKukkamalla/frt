@@ -60,6 +60,8 @@ Static Web Apps
 Other Azure Technologies : App Services.
 
 Git hub Repository:https://github.com/AnandKukkamalla/frt.git
+
 Project Demo Link:https://polite-water-02beab300.2.azurestaticapps.net
-Demo video:
+
+Demo video:https://youtu.be/p_WbSj-_uIA
 
