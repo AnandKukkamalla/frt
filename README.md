@@ -55,8 +55,6 @@ Primary Azure Technology :
 
 Azure Health Bot 
 
-QnA Maker
-
 Static Web Apps
 
 Other Azure Technologies : App Services.
